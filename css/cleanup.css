@@ -2,6 +2,6 @@
 #wall div, 
 #wall div#tag-2, 
 #wall div#tag-3.slick.wicked
-#wall div.parent#tag-4{
+div #wall div.parent#tag-4{
   display: none;
 }
